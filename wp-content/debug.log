@@ -1,0 +1,320 @@
+[27-Mar-2020 15:23:59 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 8
+[27-Mar-2020 15:24:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 339
+[27-Mar-2020 15:24:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 340
+[27-Mar-2020 15:25:59 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 8
+[27-Mar-2020 15:26:35 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 7
+[27-Mar-2020 15:26:55 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 7
+[27-Mar-2020 15:28:00 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 7
+[29-Mar-2020 05:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_uri() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php on line 5
+[29-Mar-2020 05:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_uri() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php on line 5
+[29-Mar-2020 05:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_uri() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php on line 5
+[29-Mar-2020 05:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_uri() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php on line 5
+[29-Mar-2020 05:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_uri() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page.php on line 5
+[29-Mar-2020 09:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php:21
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php on line 21
+[29-Mar-2020 09:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php:21
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php on line 21
+[29-Mar-2020 09:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php:21
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php on line 21
+[29-Mar-2020 09:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php:21
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-about-us.php on line 21
+[30-Mar-2020 16:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_thumbnails() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-menu.php:35
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\page-menu.php on line 35
+[01-Apr-2020 07:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_id() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\index.php:5
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\index.php on line 5
+[01-Apr-2020 07:14:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\index.php on line 9
+[01-Apr-2020 07:35:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\update.php on line 388
+[01-Apr-2020 13:38:49 UTC] PHP Fatal error:  Only variables can be passed by reference in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\single.php on line 38
+[01-Apr-2020 13:39:15 UTC] PHP Fatal error:  Only variables can be passed by reference in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\single.php on line 37
+[01-Apr-2020 13:40:23 UTC] PHP Fatal error:  Only variables can be passed by reference in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\single.php on line 38
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[02-Apr-2020 12:17:23 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[02-Apr-2020 13:23:49 UTC] PHP Fatal error:  Cannot redeclare lapizzeria_setups() (previously declared in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php:19) in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 47
+[02-Apr-2020 13:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 339
+[02-Apr-2020 13:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 340
+[02-Apr-2020 13:24:16 UTC] PHP Fatal error:  Cannot redeclare lapizzeria_setups() (previously declared in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php:20) in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 48
+[06-Apr-2020 07:50:13 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 10
+[06-Apr-2020 07:50:14 UTC] WordPress database error Column 'phone' cannot be null for query INSERT INTO `wp_reservations` (`name`, `date`, `email`, `phone`, `message`) VALUES ('Arindam Dasgupta', '2020-04-06T13:19', 'adg@myemail.com', NULL, 'Hello from reservation form') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_save_reservation
+[06-Apr-2020 07:51:04 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 10
+[06-Apr-2020 07:51:04 UTC] WordPress database error Column 'phone' cannot be null for query INSERT INTO `wp_reservations` (`name`, `date`, `email`, `phone`, `message`) VALUES ('Arindam Dasgupta', '2020-04-06T13:19', 'adg@myemail.com', NULL, 'Hello from reservation form') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_save_reservation
+[06-Apr-2020 08:14:05 UTC] PHP Warning:  require(C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria/wp-content/themes/lapizzeria/inc/database.php): failed to open stream: No such file or directory in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 4
+[06-Apr-2020 08:14:05 UTC] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria/wp-content/themes/lapizzeria/inc/database.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 4
+[06-Apr-2020 08:14:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 339
+[06-Apr-2020 08:14:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 340
+[06-Apr-2020 08:48:47 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:50:23 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:50:50 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:51:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 195
+[06-Apr-2020 08:51:22 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/lapizzeria/functions.php')
+[06-Apr-2020 08:51:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'lapizzeria_reservations' not found or invalid function name in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-hook.php on line 287
+[06-Apr-2020 08:52:17 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:53:30 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:53:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:55:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 183
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 184
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 185
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 186
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 187
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Undefined variable: reservation in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:55:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 188
+[06-Apr-2020 08:55:39 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:56:38 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:56:42 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 08:56:51 UTC] WordPress database error Table 'wp_lapizzeria.$table' doesn't exist for query SELECT * FROM $table made by do_action('options_page_lapizzeria_reservations'), WP_Hook->do_action, WP_Hook->apply_filters, lapizzeria_reservations
+[06-Apr-2020 11:02:55 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 118
+[06-Apr-2020 11:04:26 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 118
+[06-Apr-2020 11:50:51 UTC] PHP Parse error:  syntax error, unexpected ''posts_per_page'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 24
+[06-Apr-2020 11:51:14 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 29
+[06-Apr-2020 13:48:11 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 119
+[07-Apr-2020 12:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setting_fields() in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php:170
+Stack trace:
+#0 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-hook.php(287): lapizzeria_adjustments('')
+#1 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\admin.php(254): do_action('toplevel_page_l...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 170
+[07-Apr-2020 12:25:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 339
+[07-Apr-2020 12:25:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 340
+[07-Apr-2020 12:29:55 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 119
+[07-Apr-2020 12:31:11 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 119
+[08-Apr-2020 12:35:37 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 130
+[08-Apr-2020 12:40:18 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 110
+[08-Apr-2020 12:46:17 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:47:14 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:49:11 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:49:22 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:49:32 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:49:41 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:50:19 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:51:56 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:52:04 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 12:59:59 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 13:08:33 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Apr-2020 13:56:07 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[09-Apr-2020 10:33:36 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[09-Apr-2020 11:40:29 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 45
+[09-Apr-2020 11:40:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 339
+[09-Apr-2020 11:40:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-includes\class-wp-recovery-mode-email-service.php on line 340
+[09-Apr-2020 11:42:28 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 45
+[09-Apr-2020 11:44:28 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 45
+[09-Apr-2020 11:45:28 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 45
+[09-Apr-2020 11:45:29 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 45
+[17-Apr-2020 07:53:20 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[17-Apr-2020 07:53:21 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[17-Apr-2020 07:53:21 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[17-Apr-2020 07:53:21 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\WORDPRESS\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[23-Apr-2020 10:54:58 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[29-Apr-2020 14:54:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\header.php on line 27
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[30-Apr-2020 13:47:41 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[04-May-2020 13:27:10 UTC] PHP Warning:  basename() expects parameter 1 to be string, object given in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\functions.php on line 31
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[12-May-2020 11:21:51 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2303
+[17-Jun-2020 10:54:55 UTC] PHP Notice:  Trying to access array offset on value of type int in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-admin\includes\class-wp-site-health.php on line 2305
+[23-Jun-2020 13:39:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-includes\wp-db.php on line 1626
+[23-Jun-2020 13:39:55 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=21112 in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-includes\wp-db.php on line 1626
+[23-Jun-2020 13:39:55 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-includes\wp-db.php on line 1626
+[23-Jun-2020 14:11:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-includes\wp-db.php on line 1626
+[24-Jun-2020 05:08:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-includes\wp-db.php on line 1626
+[24-Jun-2020 14:48:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\index.php on line 9
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 11
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 56
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 70
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 14:50:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 11
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 56
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 70
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 14:50:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 14:52:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 70
+[24-Jun-2020 14:52:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 14:52:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 14:52:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:13:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:13:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:13:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:15:31 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[24-Jun-2020 15:15:56 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[24-Jun-2020 15:16:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:16:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:16:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:16:23 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[24-Jun-2020 15:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:21:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:21:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:21:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:28:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:28:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:28:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[24-Jun-2020 15:38:34 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[24-Jun-2020 15:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[24-Jun-2020 15:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[24-Jun-2020 15:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 12:10:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 12:10:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 12:10:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 12:25:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 12:25:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 12:25:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 12:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 12:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 12:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 12:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 12:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 12:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 12:57:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 12:57:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 12:57:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:10:41 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Jul-2020 13:18:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:18:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:18:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:20:15 UTC] PHP Notice:  Undefined index: hidden in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\inc\reservations.php on line 7
+[08-Jul-2020 13:20:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:20:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:20:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:21:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:21:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:21:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:32:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:32:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:32:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:37:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:37:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:37:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:38:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:38:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:38:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
+[08-Jul-2020 13:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 80
+[08-Jul-2020 13:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 81
+[08-Jul-2020 13:40:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\project\wordpress\La-Pizzeria\wp-content\themes\lapizzeria\front-page.php on line 82
